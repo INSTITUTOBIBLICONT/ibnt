@@ -1,54 +1,54 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<?xml-stylesheet type="text/xsl" href="//www.institutobibliconuevotiempo.digital/sitemap.xsl"?>
+<?xml-stylesheet type="text/xsl" href="http://www.institutobibliconuevotiempo.digital/sitemap.xsl"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9 http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd" xmlns:image="http://www.google.com/schemas/sitemap-image/1.1">
 <url>
-<loc>//www.institutobibliconuevotiempo.digital/</loc>
+<loc>http://www.institutobibliconuevotiempo.digital/</loc>
 </url>
 <url>
-<loc>//www.institutobibliconuevotiempo.digital/8-consejos-para-leer-tu-biblia.html</loc>
+<loc>http://www.institutobibliconuevotiempo.digital/8-consejos-para-leer-tu-biblia.html</loc>
 <lastmod>2020-12-05T15:46:26-03:00</lastmod>
 <image:image>
-<image:loc>//www.institutobibliconuevotiempo.digital/media\posts\1/f70.jpg</image:loc>
+<image:loc>http://www.institutobibliconuevotiempo.digital/media\posts\1/f70.jpg</image:loc>
 <image:title><![CDATA[Mujer orando]]></image:title>
 </image:image>
 <image:image>
-<image:loc>//www.institutobibliconuevotiempo.digital/media\posts\1/Cuaderno-de-notas.jpg</image:loc>
+<image:loc>http://www.institutobibliconuevotiempo.digital/media\posts\1/Cuaderno-de-notas.jpg</image:loc>
 <image:title><![CDATA[Cuaderno de notas bíblicas - https://www.instagram.com/p/B-Hq0ZuH_0Z/]]></image:title>
 </image:image>
 </url>
 <url>
-<loc>//www.institutobibliconuevotiempo.digital/cinco-cosas-necesarias-para-estudiar-la-biblia.html</loc>
+<loc>http://www.institutobibliconuevotiempo.digital/cinco-cosas-necesarias-para-estudiar-la-biblia.html</loc>
 <lastmod>2020-12-05T15:46:17-03:00</lastmod>
 <image:image>
-<image:loc>//www.institutobibliconuevotiempo.digital/media\posts\2/b07.jpg</image:loc>
+<image:loc>http://www.institutobibliconuevotiempo.digital/media\posts\2/b07.jpg</image:loc>
 <image:title><![CDATA[Estudio de la Biblia en grupo]]></image:title>
 </image:image>
 <image:image>
-<image:loc>//www.institutobibliconuevotiempo.digital/media\posts\2/a376.jpg</image:loc>
+<image:loc>http://www.institutobibliconuevotiempo.digital/media\posts\2/a376.jpg</image:loc>
 <image:title><![CDATA[Niño estudiando la Biblia]]></image:title>
 </image:image>
 </url>
 <url>
-<loc>//www.institutobibliconuevotiempo.digital/cursos-gratuitos.html</loc>
+<loc>http://www.institutobibliconuevotiempo.digital/cursos-gratuitos.html</loc>
 <lastmod>2020-12-05T15:45:33-03:00</lastmod>
 <image:image>
-<image:loc>//www.institutobibliconuevotiempo.digital/media\posts\5/LA-BIBLIA-HABLA.jpg</image:loc>
+<image:loc>http://www.institutobibliconuevotiempo.digital/media\posts\5/LA-BIBLIA-HABLA.jpg</image:loc>
 <image:title><![CDATA[Estudio bíblico - La Biblia Habla - Radio Nuevo Tiempo]]></image:title>
 </image:image>
 <image:image>
-<image:loc>//www.institutobibliconuevotiempo.digital/media\posts\5/La-Fe-de-Jesus.png</image:loc>
+<image:loc>http://www.institutobibliconuevotiempo.digital/media\posts\5/La-Fe-de-Jesus.png</image:loc>
 <image:title><![CDATA[La fe de jesus - curso biblico con certificado - IASD - estudio de la biblia]]></image:title>
 </image:image>
 <image:image>
-<image:loc>//www.institutobibliconuevotiempo.digital/media\posts\5/Biblia-Facil-Apocalipsis-01.png</image:loc>
+<image:loc>http://www.institutobibliconuevotiempo.digital/media\posts\5/Biblia-Facil-Apocalipsis-01.png</image:loc>
 <image:title><![CDATA[Estudio biblico - Revelaciones de Apocalipsis - Radio Nuevo Tiempo]]></image:title>
 </image:image>
 <image:image>
-<image:loc>//www.institutobibliconuevotiempo.digital/media\posts\5/profesasdedaniel-151111212351-lva1-app6892-thumbnail-4.jpg</image:loc>
+<image:loc>http://www.institutobibliconuevotiempo.digital/media\posts\5/profesasdedaniel-151111212351-lva1-app6892-thumbnail-4.jpg</image:loc>
 <image:title><![CDATA[Estudio bíblico - Profecias de Daniel - Radio Nuevo Tiempo]]></image:title>
 </image:image>
 <image:image>
-<image:loc>//www.institutobibliconuevotiempo.digital/media\posts\5/Biblia-Facil-Santuario-El-Camino-de-Dios.png</image:loc>
+<image:loc>http://www.institutobibliconuevotiempo.digital/media\posts\5/Biblia-Facil-Santuario-El-Camino-de-Dios.png</image:loc>
 <image:title><![CDATA[Estudio biblico - El Santuario - Radio Nuevo Tiempo]]></image:title>
 </image:image>
 </url>
