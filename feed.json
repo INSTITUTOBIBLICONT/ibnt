@@ -1,10 +1,11 @@
 {
     "version": "https://jsonfeed.org/version/1",
-    "title": "Instituto Bíblico Nuevo Tiempo - Córdoba",
+    "title": "Instituto Bíblico Nuevo Tiempo",
     "description": "",
     "home_page_url": "https://www.institutobibliconuevotiempo.com",
     "feed_url": "https://www.institutobibliconuevotiempo.com/feed.json",
     "user_comment": "",
+    "icon": "https://www.institutobibliconuevotiempo.com/media/website/NT.png",
     "author": {
         "name": "Instituto Bíblico Nuevo Tiempo"
     },
